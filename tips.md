@@ -31,4 +31,5 @@ Linki i Obrazki:
 
 
 
-*Fragment tekstu ze strony: [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/) * 
+
+*Fragment tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
