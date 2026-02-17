@@ -1,6 +1,6 @@
 # --- GŁÓWNE USTAWIENIA ---
-title: Tytuł bloga - docelowo zostanie zmieniony # Wpisz tutaj swój tytuł bloga
-description: Opis bloga - jeszcze nie wprowadzono, to na razie testy # Wpisz tutaj swój opis bloga
+title: Inspiracje # Wpisz tutaj swój tytuł bloga
+description: Cytaty, przysłowia i powiedzenia o inspirującej mocy # Wpisz tutaj swój opis bloga
 url: "https://edycja66.github.io" # Zmień tutaj mój login na swój
 baseurl: ""
 favicon: favicon.png # ikonę wrzuć do głównego folderu repozytorium pod tą nazwą (najlepiej rozdzielczość 192x192 albo 512x512)
