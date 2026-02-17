@@ -40,6 +40,7 @@ Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych
     console.log("Hello World!");
   }
   ```
+Pojedynczy grawis (klawisz z tyldą) `kod` do wstawek w tekście.
 
 Cytaty, jak:
 >Litwo, ojczyzno moja
