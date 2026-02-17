@@ -33,7 +33,7 @@ Bloki kodu (jak te czarne sekcje w nn. tekście):
 
     Wcięcie spacjami (zwykle 4 spacje lub 1 Tab)
 
-Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych
+Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych (grawis)
 
   ```javascript
   function hello() {
