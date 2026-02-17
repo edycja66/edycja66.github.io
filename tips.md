@@ -16,13 +16,13 @@ Nagłówki:
 
 Pogrubienie i kursywa:
 
-    **To będzie pogrubione** → To będzie pogrubione
-    *To będzie kursywą* → To będzie kursywą
+    **To będzie pogrubione**
+    *To będzie kursywą*
 
 Listy:
 
     - Element listy (kropka)
-    1. Element listy (numerowana)
+    1. Element listy (numer)
 
 Linki i obrazki:
 
