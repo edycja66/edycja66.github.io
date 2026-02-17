@@ -50,10 +50,10 @@ Przypisy:
 
     Użyj składni [^1] do pisania akademickiego
 
-  To jest zdanie z przypisem[^1].
-  [^1]: To jest treść przypisu.
+To jest zdanie z przypisem[^1].
+[^1]: To jest treść przypisu.
   
-Linie poziome:
+Separatory:
 
     Użyj --- lub ***
 
