@@ -6,7 +6,7 @@ permalink: /tips/
 
 <div id="pl"></div>
 
-## Parę podstawowych narzędzi pomocnych przy edycji plików md ##
+## Parę zasad edycji plików .md ##
 
 Nagłówki: 
 
