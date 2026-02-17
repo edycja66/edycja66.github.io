@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Edyta](/images/edyta.jpg)
 
-Blog ten jest zbiorem cytatów zebranych w ciągu ostatnich kilku lat przez moją żonę Edytę, o wspólnym temacie: Inspiracje.
+Blog ten jest zbiorem cytatów zebranych w ciągu ostatnich kilku lat przez moją żonę Edytę, o wspólnym temacie: **Inspiracje**.
 
 Ze względu na charakter tych inspirujących cytatów, powiedzeń i sentencji, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
 
