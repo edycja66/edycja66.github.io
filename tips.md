@@ -57,6 +57,6 @@ Linie poziome:
 
     Użyj --- lub ***
 
----
+***
 
 *Na podstawie tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/) *oraz* [md-tool.com](https://md-tool.com/pl/markdown-guide)
