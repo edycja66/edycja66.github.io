@@ -7,6 +7,7 @@ permalink: /tips/
 <div id="pl"></div>
 
 ## Parę zasad edycji plików .md ##
+### Pliki .md tworzą kod treści bloga ###
 
 Nagłówki: 
 
