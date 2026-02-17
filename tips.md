@@ -33,7 +33,7 @@ Bloki kodu (jak te czarne sekcje w nn. tekście):
 
     Wcięcie spacjami (zwykle 4 spacje lub 1 Tab)
 
-Cytaty:
+Cytaty, jak >Litwo, ojczyzno moja> :
 
     Użyj symbolu > (> To jest cytat)
     
