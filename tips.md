@@ -29,7 +29,7 @@ Linki i obrazki:
     Link: [Tekst linku](https://adres.pl)
     Obrazek: ![Opis alternatywny](link-do-obrazka.jpg)
 
-Bloki kodu: 
+Bloki kodu (jak te czarne sekcje w nn. tekście):
 
     Wcięcie spacjami (zwykle 4 spacje lub 1 Tab)
 
