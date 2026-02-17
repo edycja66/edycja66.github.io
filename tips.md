@@ -33,6 +33,14 @@ Bloki kodu (jak te czarne sekcje w nn. tekście):
 
     Wcięcie spacjami (zwykle 4 spacje lub 1 Tab)
 
+Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych
+
+  ```javascript
+  function hello() {
+    console.log("Hello World!");
+  }
+  ```     
+
 Cytaty, jak >Litwo, ojczyzno moja> :
 
     Użyj symbolu > (> To jest cytat)
