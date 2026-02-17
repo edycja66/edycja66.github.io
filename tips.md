@@ -41,7 +41,8 @@ Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych
   }
   ```     
 
-Cytaty, jak >Litwo, ojczyzno moja> :
+Cytaty, jak:
+>Litwo, ojczyzno moja
 
     Użyj symbolu > (> To jest cytat)
     
