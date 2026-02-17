@@ -39,7 +39,7 @@ Ogrodzone bloki kodu: Użyj potrójnych znaczników wstecznych
   function hello() {
     console.log("Hello World!");
   }
-  ```     
+  ```
 
 Cytaty, jak:
 >Litwo, ojczyzno moja
