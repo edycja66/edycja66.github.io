@@ -29,7 +29,17 @@ Linki i obrazki:
     Link: [Tekst linku](https://adres.pl)
     Obrazek: ![Opis alternatywny](link-do-obrazka.jpg)
 
+Bloki kodu: 
+
+    Wcięcie spacjami (zwykle 4 spacje lub 1 Tab)
+
+Cytaty:
+
+    Użyj symbolu > (> To jest cytat)
+    
+Linie poziome:
+
+    Użyj --- lub ***
 
 
-
-*Na podstawie tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
+*Na podstawie tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/) *oraz* [md-tool.com](https://md-tool.com/pl/markdown-guide)
