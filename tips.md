@@ -6,7 +6,7 @@ permalink: /tips/
 
 <div id="pl"></div>
 
-## Parę podstawowych narzędzi edycyjnych, pomocnych przy edycji plików md ##
+## Parę podstawowych narzędzi pomocnych przy edycji plików md ##
 
 Nagłówki: 
 
@@ -24,7 +24,7 @@ Listy:
     - Element listy (kropka)
     1. Element listy (numerowana)
 
-Linki i Obrazki:
+Linki i obrazki:
 
     Link: [Tekst linku](https://adres.pl)
     Obrazek: ![Opis alternatywny](link-do-obrazka.jpg)
@@ -32,4 +32,4 @@ Linki i Obrazki:
 
 
 
-*Fragment tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
+*Na podstawie tekstu ze strony:* [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
