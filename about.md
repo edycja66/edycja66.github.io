@@ -10,7 +10,7 @@ permalink: /about/
 
 Blog ten jest rodzajem epitafium dla uczczenia pamięci mojej zmarłej żony, Edyty Szczur - humanistki i wieloletniej nauczycielki literatury polskiej w liceum (potem także gimnazjum) w Mielcu.
 
-Jest zbiorem cytatów, powiedzeń i sentencji, zebranych z różnych źródeł w ciągu ostatnich kilku lat jej życia, o wspólnym temacie: **Inspiracje**.  Znalazłem je spisane odręcznie w kalendarzu-notatniku z 2016 roku o nazwie "Inspiracje", taki też tytuł nadałem temu blogowi, i tak je czasami nazywam.
+Jest zbiorem cytatów, powiedzeń i sentencji, zebranych z różnych źródeł w ciągu ostatnich kilku lat jej życia, o wspólnym temacie: **Inspiracje**.  Znalazłem je spisane odręcznie w kalendarzu-notatniku z 2017 roku o nazwie "Inspiracje", taki też tytuł nadałem temu blogowi, i tak je czasami nazywam.
 
 Te krótkie, inspirujące teksty, podkreślają w jaki sposób zdołała zachować pogodę ducha, mimo ponad dwudziestu lat wyniszczającej choroby i przeciwności losu. Pokazują one jakie idee jej przyświecały, zwłaszcza w tych ostatnich latach, gdy nie mogła już liczyć na pociechę duchową religii, w której została wychowana.
 
