@@ -27,6 +27,7 @@ Listy:
 Linki i obrazki:
 
     Link: [Tekst linku](https://adres.pl)
+    Link w nowym oknie: [Tekst linku](https://adres.pl){:target="_blank"}
     Obrazek: ![Opis alternatywny](link-do-obrazka.jpg)
 
 Bloki kodu (jak te czarne sekcje w nn. tekście):
