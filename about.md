@@ -12,7 +12,7 @@ Witam Cię Gościu na stronie poświęconej inspirującym myślom, zwanym czase
 
 Blog ten jest zatem rodzajem epitafium dla uczczenia pamięci mojej zmarłej żony, Edyty Szczur - humanistki i wieloletniej nauczycielki literatury polskiej w liceum (potem także gimnazjum) w Mielcu. Mam nadzieję, że będzie to wspomnienie trwalsze, niż cokolwiek innego - wszak mówi się, że w internecie nic nie ginie.
 
-Blog stanowi zbiór cytatów, powiedzeń i sentencji, zebranych z różnych źródeł w ciągu ostatnich kilku lat jej życia, o wspólnym temacie: **Inspiracje**.  Znalazłem je spisane odręcznie w kalendarzu-notatniku z 2016 roku o nazwie "Inspiracje", taki też tytuł nadałem temu blogowi, i tak je czasami nazywam.
+Blog stanowi zbiór cytatów, powiedzeń i sentencji, zebranych z różnych źródeł, o wspólnym temacie: **Inspiracje**.  Znalazłem je spisane odręcznie w kalendarzu-notatniku z 2016 roku o nazwie "Inspiracje", taki też tytuł nadałem temu blogowi, i tak je czasami nazywam.
 
 Te krótkie, inspirujące teksty, podkreślają w jaki sposób zdołała zachować pogodę ducha, mimo ponad dwudziestu lat wyniszczającej choroby i przeciwności losu. Pokazują one jakie idee jej przyświecały, zwłaszcza w tych ostatnich latach, gdy nie mogła już liczyć na pociechę duchową religii, w której została wychowana.
 
