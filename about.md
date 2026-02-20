@@ -8,9 +8,9 @@ permalink: /about/
 
 ![Edyta](/images/edyta.jpg)
 
-Witam Cię Gościu na stronie poświęconej inspirującym myślom, zwanym czasem w dalszej części Inspiracjami. Myśli te w postaci cytatów z fragmentów wypowiedzi, ale także są to funkcjonujące w społeczeństwie powiedzenia i aforyzmy i inne formy ekspresji pewnych idei.
+Witam Cię Gościu na stronie poświęconej inspirującym myślom, zwanym czasem w dalszej części Inspiracjami. Myśli te w postaci cytatów z fragmentów wypowiedzi, ale także są to funkcjonujące w społeczeństwie powiedzenia i aforyzmy i inne formy ekspresji pewnych idei, zebrała w ciągu ostatnich kilku lat życia moja żona.
 
-Blog ten jest rodzajem epitafium dla uczczenia pamięci mojej zmarłej żony, Edyty Szczur - humanistki i wieloletniej nauczycielki literatury polskiej w liceum (potem także gimnazjum) w Mielcu. Mam nadzieję, że będzie to wspomnienie trwalsze, niż cokolwiek innego - wszak mówi się, że w internecie nic nie ginie.
+Blog ten jest zatem rodzajem epitafium dla uczczenia pamięci mojej zmarłej żony, Edyty Szczur - humanistki i wieloletniej nauczycielki literatury polskiej w liceum (potem także gimnazjum) w Mielcu. Mam nadzieję, że będzie to wspomnienie trwalsze, niż cokolwiek innego - wszak mówi się, że w internecie nic nie ginie.
 
 Blog stanowi zbiór cytatów, powiedzeń i sentencji, zebranych z różnych źródeł w ciągu ostatnich kilku lat jej życia, o wspólnym temacie: **Inspiracje**.  Znalazłem je spisane odręcznie w kalendarzu-notatniku z 2016 roku o nazwie "Inspiracje", taki też tytuł nadałem temu blogowi, i tak je czasami nazywam.
 
