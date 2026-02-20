@@ -32,4 +32,4 @@ Jest wykonany w oparciu o statyczny kod *HTML*, jako publiczne repozytorium na g
 
 Blog powstał na podstawie poradnika dostępnego na stronie [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
 
-*Blog utworzono 18 lutego 2026 roku, w dniu w którym Edyta zmarła*
+*Blog utworzono 18. lutego 2026 roku, w dniu w którym Edyta zmarła*
