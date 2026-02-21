@@ -40,7 +40,7 @@ Niezwykłość tej pory wynika też z tego, że ślub braliśmy również **w 
 
 Przypadek? Nie ma przypadków, są znaki - jak mawiają.<br />
 Dla nas racjonalistów to nie znak, a raczej symbol. Symbol czego?<br />
-Tego jeszcze nie wiem...
+To symboliczne domknięcie pięknego etapu życia. Początek i koniec, alfa i omega...
 
 
 
