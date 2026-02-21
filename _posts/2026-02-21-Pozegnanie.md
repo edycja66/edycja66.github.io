@@ -34,9 +34,9 @@ Teraz te osobiste:
 > Pod grubą warstwą uśmiechu<br />
 > kryje się najgłębszy smutek.
 
-Zapowiedziałem na początku, że ten dzień jest niezwykły. Jest niezwykły, bo dziś, *w sobotę 21-go o godzinie 12:00* nastąpi pożegnanie prochów zmarłej Edyty, z którą przeżyliśmy razem niemal 35 lat małżeństwa (było by we wrześniu).
+Zapowiedziałem na początku, że ten dzień jest niezwykły. Jest niezwykły, bo dziś, **w sobotę 21-go o godzinie 12:00** nastąpi pożegnanie prochów zmarłej Edyty, z którą przeżyliśmy razem niemal 35 lat małżeństwa (było by we wrześniu).
 
-Niezwykłość tej pory wynika też z tego, że ślub braliśmy również *w sobotę, 21-go o godzinie 12:00*.
+Niezwykłość tej pory wynika też z tego, że ślub braliśmy również **w sobotę, 21-go o godzinie 12:00**.
 
 Przypadek? Nie ma przypadków, są znaki - jak mawiają.<br />
 Dla nas racjonalistów to nie znak, a raczej symbol. Symbol czego? Tego jeszcze nie wiem...
