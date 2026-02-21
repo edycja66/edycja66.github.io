@@ -22,7 +22,8 @@ Teraz te osobiste:
 > - Ajschylos
 
 > Nie żałuję rzeczy, które zrobiłam źle;<br />
-> żałuję dobrych rzeczy, które zrobiłam dla nieodpowiednich ludzi.
+> żałuję dobrych rzeczy,<br />
+> które zrobiłam dla nieodpowiednich ludzi.
 
 > Przecież nawet krótkie chile szczęścia<br />
 > są lepsze niż nic.
