@@ -39,7 +39,8 @@ Zapowiedziałem na początku, że ten dzień jest niezwykły. Jest niezwykły, 
 Niezwykłość tej pory wynika też z tego, że ślub braliśmy również **w sobotę, 21-go o godzinie 12:00**.
 
 Przypadek? Nie ma przypadków, są znaki - jak mawiają.<br />
-Dla nas racjonalistów to nie znak, a raczej symbol. Symbol czego? Tego jeszcze nie wiem...
+Dla nas racjonalistów to nie znak, a raczej symbol. Symbol czego?<br />
+Tego jeszcze nie wiem...
 
 
 
