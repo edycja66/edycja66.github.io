@@ -9,7 +9,7 @@ tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
 image: "/images/COVERIMAGE.png" # Odnośnik do grafiki wiodącej wpisu, jeżeli planujesz takowych używać
 ---
 
-Dziś kolejna porcja inspiracji, wyszperanych przez Edytę gdzieś w książkach i nieskończonych głębiach internetu, ale jednocześnie niezwykła - o czym na końcu. Jeśli nie czytałeś drogi Czytelniku wprowadzenia do tego bloga, to zachęcam - zapoznaj się z krótkim tekstem "O blogu" w nagłówku. Bez tego nie zobaczysz świata, jaki chcę Ci pokazać.
+Dziś kolejna porcja inspiracji, wyszperanych przez Edytę gdzieś w książkach i nieskończonych głębiach internetu, ale jednocześnie niezwykła - o czym na końcu. Jeśli nie czytałeś drogi Czytelniku wprowadzenia do tego bloga, to zachęcam - zapoznaj się z krótkim tekstem [O blogu](/about){:target="_blank"} w nagłówku. Bez tego nie zobaczysz świata, jaki chcę Ci pokazać.
 
 Na początek cytat z kalendarza:
 
