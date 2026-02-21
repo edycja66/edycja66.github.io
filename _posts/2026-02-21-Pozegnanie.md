@@ -21,16 +21,16 @@ Teraz te osobiste:
 > Nie ma gorszego zła od pięknych słów, które kłamią.
 > - Ajschylos
 
-> Nie żałuję rzeczy, które zrobiłam źle;
+> Nie żałuję rzeczy, które zrobiłam źle;<br />
 > żałuję dobrych rzeczy, które zrobiłam dla nieodpowiednich ludzi.
 
-> Przecież nawet krótkie chile szczęścia
+> Przecież nawet krótkie chile szczęścia<br />
 > są lepsze niż nic.
 
-> Musisz po prostu przejść przez te złe dni
+> Musisz po prostu przejść przez te złe dni<br />
 > aby dojść do tych dobrych.
 
-> Pod grubą warstwą uśmiechu
+> Pod grubą warstwą uśmiechu<br />
 > kryje się najgłębszy smutek.
 
 Zapowiedziałem na początku, że ten dzień jest niezwykły. Jest niezwykły, bo dziś, w sobotę 21-go o godzinie 12:00 nastąpi pożegnanie prochów zmarłej Edyty, z którą przeżyliśmy razem niemal 35 lat małżeństwa (było by we wrześniu).
