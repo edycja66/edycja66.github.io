@@ -13,13 +13,13 @@ Dziś kolejna porcja inspiracji, wyszperanych przez Edytę. Jeśli nie czytałe�
 
 Na początek cytat z kalendarza:
 
-> Nie możesz mieć lepszego jutra, br />
-> jeśli czły czas myslisz o wczoraj.
+> Nie możesz mieć lepszego jutra, <br />
+> jeśli cały czas myślisz o wczoraj.
 > - Charles F. Kettering
 
 Teraz te osobiste:
 
-> Szczęście to nie ilość pieniędzy, które masz, tylko ludzie w towim życiu, którzy pomagają ci tworzyć piękne wspomnienia.
+> Szczęście to nie ilość pieniędzy, które masz, tylko ludzie w twoim życiu, którzy pomagają ci tworzyć piękne wspomnienia.
 
 > Samotność nie ma nic wspólnego z brakiem towarzystwa.
 > - Erich Maria Remarque
@@ -31,9 +31,9 @@ Teraz te osobiste:
 > W życiu za wszystko się pałci. Za dobro i za zło. Za wszystko...
 > - Ojciec Pio
 
-Dominującym tematem dzisiejszych cytatów jest samotność. Może Edyta czuła się samotna w tym czasie? Jak z drugiego cytatu wynika, samotność można odczuwać również między ludźmi. Może otaczający ją ludzie nie spełniali jej oczekiwań? A może ich nawet nie zauważała?
+Dominującym tematem dzisiejszych cytatów jest samotność. Może Edyta czuła się samotna w tamtym czasie? Jak z drugiego cytatu wynika, samotność można odczuwać również między ludźmi. Może otaczający ją ludzie nie spełniali jej oczekiwań? A może ich nawet nie zauważała?
 
-Oczekiwania to pułapka iście szatańska. To najprostsza droga do zrobienia sobie mentalnej krzywdy. Owszem trzeba mieć jakieś preferencje w doborze, ale jeśli już kupię produkt, a nie spełnia on moich oczekiwań, to nie mogę się na niego obrazić...
+Oczekiwania to pułapka iście szatańska. To najprostsza droga do zrobienia sobie mentalnej krzywdy. Owszem trzeba mieć jakieś preferencje w doborze, ale jeśli już kupię produkt, a nie spełnia on moich oczekiwań, to nie mogę się na niego obrazić... Temat ten nawiązuje do wpisu ["Powtórki nie ma" z 24.02.2026](2026-02-24-Powtorki){:target="_blank"}. Nejlepszym lekarstwem na zawiedzone oczekiwania jest życie zgodnie z zasadą:
 
 > Nie oczekuj, nie będziesz nigdy zawiedziony.
 
