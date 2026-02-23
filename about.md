@@ -16,7 +16,7 @@ Blog stanowi zbiór cytatów, powiedzeń i sentencji, zebranych z różnych źr�
 
 Te krótkie, inspirujące teksty, podkreślają w jaki sposób zdołała zachować pogodę ducha, mimo ponad dwudziestu lat wyniszczającej choroby i przeciwności losu. Pokazują one jakie idee jej przyświecały, zwłaszcza w tych ostatnich latach, gdy nie mogła już liczyć na pociechę duchową religii, w której została wychowana.
 
-Inspiracje pojawiają się tu w kolejności, w jakiej zostały spisane, nie są ułożone wg żadnych kategorii, aczkolwiek są otagowane i w ten sposób można je będzie później wyszukiwać.
+Inspiracje pojawiają się tu w kolejności, w jakiej zostały spisane, nie są ułożone wg żadnych kategorii. Odzwierciedlają one myśli i nastrój Edyty w danym momencie, jak radio które wyłapuje te fale, na które jest nastrojone. Choć słuchamy różnych stacji radiowych, to na wybór duszy wpływu nie mamy...
 
 Ze względu na ich głęboką treść, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
 Niektóre są uzupełnione o moje refleksje na dany temat. Refleksje te mogą stanowić pretekst do zastanowienia się, jak Ty je odbierasz, a to z pewnością wzbogaci wachlarz wrażeń.
