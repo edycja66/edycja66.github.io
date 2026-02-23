@@ -21,9 +21,9 @@ Dzisiejsze cytaty nie są inspirujące, wskazują na pewien kryzys - są przyt
 
 Trzeci nie trafia do mnie, nie rozumiem go... Drugi, to gorzka prawda, jeśli świat oglądamy w stanie pobudzenia emocjonalnego jakimś przykrym zdarzeniem. Ale z pierwszym muszę polemizować.
 
-Pielęgnowanie w pamięci zdarzenia, które zostało wybaczone jest bez sensu. Być może chodziło o to, że wybaczenie nie usuwa automatycznie tego z pamięci, a to prawda, ale wtedy w pamięci zdarzenie zostaje zaszufladkowane do kategorii "załatwione".<br />
+Pielęgnowanie w pamięci zdarzenia, które zostało wybaczone jest bez sensu. Być może chodziło o to, że wybaczenie nie usuwa automatycznie tego z pamięci, a to prawda, ale wtedy w pamięci zdarzenie zostaje zaszufladkowane do kategorii "załatwione", przekazane do archiwum.<br />
 Bo czym jest wybaczanie, jeśli nie wiąże się z nim przekwalifikowanie odczuć z bolesnych na znieczulone? Z pamięci nie da się nic usunąć - nie da się "odzobaczyć" tego, co się raz zobaczyło.
-A pielęgnowanie urazy mimo werbalnego wybaczenia jest wręcz oszustwem, a najgorzej że oszukujemy w ten sposób siebie. Brzmi to jak: "wybaczam ci, ali ci tego nie zapomnę!" Nie rozumiem...
+Pielęgnowanie urazy mimo werbalnego wybaczenia jest wręcz oszustwem, a najgorzej że oszukujemy w ten sposób siebie. Brzmi to jak: "wybaczam ci, ale ci tego nie zapomnę!" Nie rozumiem...
 
 Jak nie przeprasza się dwa razy za to samo, tak nie wybacza się inaczej niż raz. Raz a dobrze. I prawdziwie.
 
