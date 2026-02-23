@@ -21,7 +21,7 @@ Inspiracje pojawiają się tu w kolejności, w jakiej zostały spisane, nie s�
 Ze względu na ich głęboką treść, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
 Niektóre są uzupełnione o moje refleksje na dany temat. Refleksje te mogą stanowić pretekst do zastanowienia się, jak Ty je odbierasz, a to z pewnością wzbogaci wachlarz wrażeń.
 
-Mam nadzieję, że znajdziesz tu choć jedną taką, która odmieni Twoje życie, a przynajmniej zakotwiczy się gdzieś w głębi Twej duszy.
+Mam nadzieję, że znajdziesz tu choć jedną taką myśl, która odmieni Twoje życie, a przynajmniej zakotwiczy się gdzieś w głębi Twej duszy.
 
 Zauważ Czytelniku, że nie stosuję tu nagminnie modnych ostatnio (w niektórych kręgach) feminatywów. "Czytelnik", podobnie jak "człowiek" może być kobietą, mężczyzną lub dzieckiem. Nie używam tu też nowomowy w stylu "osoba człowiecza", czy podobnych kretynizmów - nie ma potrzeby komplikować przekazu tylko po to, aby nadążyć za usilnie kreowanymi trendami, bo ważniejsze jest znaczenie słów, a nie ich forma.
 Dobrą ilustracją tego niech będzie znane powiedzenie (a raczej jego wariacja): *"Mędrzec pokazuje Księżyc, głupiec widzi palec"*.
