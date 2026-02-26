@@ -22,5 +22,9 @@ Dziś kolejna porcja inspiracji, wyszperanych przez Edytę. Jeśli nie czytałe�
 > Każda chwila jest dobra, by zmienić coś w swoim życiu.
 
 Po chwilach smutku i refleksji, dzisiejsze cytaty mówią o nadziei na lepsze jutro, są budujące. Nie wiem kiedy i w jakim odstępie od poprzednich zostały spisane, bo pisane są ciągiem strona za stroną, ale widać, że "dołek" minął. Jak to w życiu - raz na wozie, raz pod wozem.<br />
-Jak w piosence Budki Suflera Jest taki samotny dom gdzie w końcowym fragmencie słyczymy: "A po nocy przychodzi dzień, a po burzy spokój".
+Jak w piosence Budki Suflera [Jest taki samotny dom](https://www.youtube.com/watch?v=wT_ObQMSs3U){:target="_blank"}, gdzie w końcowym fragmencie słyszymy: "A po nocy przychodzi dzień, a po burzy spokój".
+
+Edyta, po burzliwym zmaganiu się z chorobą, też już ma spokój...<br />
+Na nim zakończył się krąg wzoltów i upadków, przynajmniej z naszej ludzkiej perspektywy.
+
 
