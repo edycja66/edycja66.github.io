@@ -21,5 +21,6 @@ Dziś kolejna porcja inspiracji, wyszperanych przez Edytę. Jeśli nie czytałe�
 
 > Każda chwila jest dobra, by zmienić coś w swoim życiu.
 
-
+Po chwilach smutku i refleksji, dzisiejsze cytaty mówią o nadziei na lepsze jutro, są budujące. Nie wiem kiedy i w jakim odstępie od poprzednich zostały spisane, bo pisane są ciągiem strona za stroną, ale widać, że "dołek" minął. Jak to w życiu - raz na wozie, raz pod wozem.<br />
+Jak w piosence Budki Suflera Jest taki samotny dom gdzie w końcowym fragmencie słyczymy: "A po nocy przychodzi dzień, a po burzy spokój".
 
