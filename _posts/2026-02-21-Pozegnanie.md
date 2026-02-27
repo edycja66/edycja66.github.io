@@ -25,7 +25,7 @@ Teraz te osobiste:
 > żałuję dobrych rzeczy,<br />
 > które zrobiłam dla nieodpowiednich ludzi.
 
-> Przecież nawet krótkie chile szczęścia<br />
+> Przecież nawet krótkie chwile szczęścia<br />
 > są lepsze niż nic.
 
 > Musisz po prostu przejść przez te złe dni<br />
