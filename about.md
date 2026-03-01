@@ -29,7 +29,7 @@ Dobrą ilustracją tego niech będzie znane powiedzenie (a raczej jego wariacj
 Bądź zatem nie jak ten głupiec, szukający w tekście potwierdzenia swojej wyjątkowości, a jak ten mędrzec, patrzący w głębię życia.
 
 Technicznie, blog jest minimalistyczny - minimalizm ten podkreśla treść, a nie formę.
-Jest wykonany w oparciu o statyczny kod *HTML*, jako publiczne repozytorium na github.com
+Jest wykonany w oparciu o statyczny kod *HTML*, jako publiczne repozytorium na github.com<br />
 Jeżeli Czytelniku musisz już korzystać z komórki czytając ten blog, rób to w układzie poziomym, bo miejscami zastosowano wymuszone formatowanie, dla podkreślenia sensu.
 
 Blog powstał na podstawie poradnika dostępnego na stronie [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/blog-jekyll-github/)
