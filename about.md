@@ -6,7 +6,7 @@ permalink: /about/
 
 <div id="pl"></div>
 
-![Edyta](/images/edyta.jpg)
+![Edyta](/images/Edyta_Sz.jpg)
 
 Witam Cię Gościu na blogu poświęconym inspirującym myślom, zwanym czasem w dalszej części Inspiracjami. Myśli te w postaci cytatów z wypowiedzi, ale także są to funkcjonujące w społeczeństwie powiedzenia i aforyzmy i inne formy ekspresji pewnych idei, zebrała w ciągu ostatnich kilku lat życia moja żona.
 
