@@ -22,8 +22,8 @@ Na początek dwa cytaty z kalendarza:
 Teraz te osobiste, dziś tylko dwie:
 
 > Często najmądrzejszą odpowiedzią jest milczenie.
-> - Lew. Tołstoj
+> - Lew Tołstoj
 
-> Nie trać czasu na wyjaśnienia. Ludzie i tak usłyszą co chcą...
+> Nie trać czasu na wyjaśnienia. Ludzie i tak usłyszą, co chcą...
 
 Myśli zanotowane na dziś przez Edytę ciągle mają nutę melancholii i pesymistycznego zabarwienia. Humanistka ze smutkiem obserwuje ludzką naturę...
