@@ -6,7 +6,6 @@ categories: # Tu wrzucasz kategorie, którymi później można sortować wpisy
   - "inspiracje"
 tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
   - "ogólne"
-image: "/images/COVERIMAGE.png" # Odnośnik do grafiki wiodącej wpisu, jeżeli planujesz takowych używać
 ---
 
 Dziś kolejna porcja inspiracji, wyszperanych przez Edytę. Jeśli nie czytałeś drogi Czytelniku wprowadzenia do tego bloga, to zachęcam - zapoznaj się z krótkim tekstem [O blogu](/about){:target="_blank"} w nagłówku. Bez tego nie zobaczysz świata, jaki chcę Ci pokazać.
