@@ -21,7 +21,7 @@ Cytaty osobiste:
 
 > Życie jest zbyt krótkie, by martwić się co inni o tobie powiedzą. Po prostu rób to co kochasz, baw się dobrze i daj im kolejny temat do rozmów.
 
-> Zło nie bierze się z braku ani z nicości,
+> Zło nie bierze się z braku ani z nicości,<br />
 > Zło bierze się z człowieka i tylko z człowieka.
 > - Tadeusz Różewicz.
 
