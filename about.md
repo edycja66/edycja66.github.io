@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Edyta](/images/Edyta_Sz.jpg)
 
-Witam Cię Gościu na blogu poświęconym inspirującym myślom, zwanym czasem w dalszej części Inspiracjami. Myśli te w postaci cytatów z wypowiedzi, ale także są to funkcjonujące w społeczeństwie powiedzenia i aforyzmy i inne formy ekspresji pewnych idei, zebrała w ciągu ostatnich kilku lat życia moja żona.
+Witam Cię Gościu na blogu poświęconym inspirującym myślom, zwanym czasem w dalszej części *Inspiracjami*. Myśli te w postaci cytatów z wypowiedzi, ale także są to funkcjonujące w społeczeństwie powiedzenia i aforyzmy i inne formy ekspresji pewnych idei, zebrała w ciągu ostatnich kilku lat życia moja żona.
 
 Blog ten jest zatem rodzajem epitafium dla uczczenia pamięci mojej zmarłej żony, Edyty Szczur - humanistki i wieloletniej nauczycielki literatury polskiej w liceum (potem także gimnazjum) w Mielcu. Mam nadzieję, że będzie to wspomnienie trwalsze, niż cokolwiek innego - wszak mówi się, że w internecie nic nie ginie.
 
@@ -19,9 +19,9 @@ Te krótkie, inspirujące teksty, podkreślają w jaki sposób zdołała zachowa
 Inspiracje pojawiają się tu w kolejności, w jakiej zostały spisane, nie są ułożone wg żadnych kategorii. Odzwierciedlają one myśli i nastrój Edyty w danym momencie, jak radio które wyłapuje te fale, na które jest nastrojone. Choć słuchamy różnych stacji radiowych, to na wybór duszy wpływu nie mamy...
 
 Ze względu na ich głęboką treść, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
-Niektóre są uzupełnione o moje refleksje na dany temat. Refleksje te mogą stanowić pretekst do zastanowienia się, jak Ty je odbierasz, a to z pewnością wzbogaci wachlarz wrażeń.
+Niektóre są uzupełnione o moje refleksje na dany temat. Refleksje te są pisane spontanicznie, choć w kolejnych czytaniach są czasem wygładzane, by nie urazić wrażliwości czytelnika. Mogą stanowić pretekst do zastanowienia się, jak Ty je odbierasz, a to z pewnością wzbogaci wachlarz wrażeń.
 
-Mam nadzieję, że znajdziesz tu choć jedną taką myśl, która odmieni Twoje życie, a przynajmniej zakotwiczy się gdzieś w głębi Twej duszy.
+Mam nadzieję, że znajdziesz tu choć jedną taką myśl, która odmieni Twoje życie, a przynajmniej zakotwiczy się gdzieś w głębi Twej duszy, i jak kroplaq drąży skałę, kiedyś przyniesie owoc.
 
 Zauważ Czytelniku, że nie stosuję tu nagminnie modnych ostatnio (w niektórych kręgach) feminatywów. "Czytelnik", podobnie jak "człowiek" może być kobietą, mężczyzną lub dzieckiem. Nie używam tu też nowomowy w stylu "osoba człowiecza", czy podobnych kretynizmów - nie ma potrzeby komplikować przekazu tylko po to, aby nadążyć za usilnie kreowanymi trendami, bo ważniejsze jest znaczenie słów, a nie ich forma.
 Dobrą ilustracją tego niech będzie znane powiedzenie (a raczej jego wariacja): *"Mędrzec pokazuje Księżyc, głupiec widzi palec"*.
