@@ -37,7 +37,7 @@ Owszem, doświadczenie zwiedzania odległych miejsc i poznawania kultur, jest be
 
 Podobnie jest z religią - jest się członkiem małej społeczności, parafii, gdzie ludzie się znają [tu małe, a jak się okazuje, konieczne wyjaśnienie: piszę z perspektywy parafii wiejskiej, gdzie się wychowałem; w parafii miejskiej relacje w parafii są inne] więc odpuszczenie sobie troski "co ludzie powiedzą" jest dla członka takiej społeczności nie lada wyczynem.<br />
 I nigdy nie podejrzewałem, że Edyta zdobędzie się na porzucenie tej organizacji, a jednak!<br />
-Ja miałem łatwiej, bo byłem w tym środowisku de facto obcy, a Edyta miała silne więzi rodzinne i dość liczną, w porównaniu ze mną, rodzinę, której presja jest niebagatelna. Jednak choroba uczyniła ją silniejszą - to ona zmagała się przez lata z bólem i niemocą, gdy rodzina miała blade pojęcie co przeżywa. To dało jej inny punkt widzenia na wiele spraw.
+Ja miałem łatwiej, bo byłem w mieście de facto obcy, a Edyta miała silne więzi rodzinne i dość liczną, w porównaniu ze mną, rodzinę, której presja jest niebagatelna. Jednak choroba uczyniła ją silniejszą - to ona zmagała się przez lata z bólem i niemocą, gdy rodzina miała blade pojęcie co przeżywa. To dało jej inny punkt widzenia na wiele spraw.
 
 [Tu część usunąłem, bo napisana była zbyt szczerze, jak na publikację w internecie, co nie oznacza, że reszta nie jest szczera - jest z autocenzurą] 
 
