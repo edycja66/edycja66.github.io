@@ -39,6 +39,6 @@ Podobnie jest z religią - jest się członkiem małej społeczności, parafii,
 I nigdy nie podejrzewałem, że Edyta zdobędzie się na porzucenie tej organizacji, a jednak!<br />
 Ja miałem łatwiej, bo byłem w tym środowisku de facto obcy, a Edyta miała silne więzi rodzinne i dość liczną, w porównaniu ze mną, rodzinę, której presja jest niebagatelna. Jednak choroba uczyniła ją silniejszą - to ona zmagała się przez lata z bólem i niemocą, gdy rodzina miała blade pojęcie co przeżywa. To dało jej inny punkt widzenia na wiele spraw.
 
-[Tu część usunąłem, bo rzeczywiście, napisana była zbyt szczerze, jak na publikację w internecie] 
+[Tu część usunąłem, bo napisana była zbyt szczerze, jak na publikację w internecie, co nie oznacza, że reszta nie jest szczera - jest z autocenzurą] 
 
 Jak to się mówi, nigdy nie jest za późno by się obudzić z iluzji, bo ze snu farmakologicznego Edyta już się nie obudziła. Zgasła, w ciszy i spokoju, jakiego od lat nie zaznała.
