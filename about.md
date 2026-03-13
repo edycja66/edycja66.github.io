@@ -18,7 +18,7 @@ Te krótkie, inspirujące teksty, podkreślają w jaki sposób zdołała zachowa
 
 Inspiracje pojawiają się tu w kolejności, w jakiej zostały spisane, nie są ułożone wg żadnych kategorii. Odzwierciedlają one myśli i nastrój Edyty w danym momencie, jak radio które wyłapuje te fale, na które jest nastrojone. Choć słuchamy różnych stacji radiowych, to na wybór duszy wpływu nie mamy...
 
-Ze względu na ich głęboką treść, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
+Ze względu na ich głęboką czasem treść, publikowane są jako kolejne wpisy, aby dać Czytelnikowi czas na ich przemyślenie, a raczej na obcowanie z każdym z nich, kolejno przez dłuższy czas.
 Niektóre są uzupełnione o moje refleksje na dany temat. Refleksje te są pisane spontanicznie, choć w kolejnych czytaniach są czasem wygładzane, by nie urazić wrażliwości czytelnika. Mogą stanowić pretekst do zastanowienia się, jak Ty je odbierasz, a to z pewnością wzbogaci wachlarz wrażeń.
 
 Mam nadzieję, że znajdziesz tu choć jedną taką myśl, która odmieni Twoje życie, a przynajmniej zakotwiczy się gdzieś w głębi Twej duszy, i jak kropla drąży skałę, kiedyś przyniesie owoc.
