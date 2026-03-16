@@ -12,7 +12,7 @@ Dziś kolejna porcja inspiracji, wyszperanych przez Edytę. Jeśli nie czytałe�
 
 Na początek cytat z kalendarza:
 
-> To co nam się wydaje, staje si ę oczywiste.
+> To co nam się wydaje, staje się oczywiste.
 > - Petter Bergman
 
 A teraz cytaty osobiste:
