@@ -23,5 +23,5 @@ A teraz cytaty osobiste:
 > ... oczy są ślepe. Szukać trzeba sercem.
 > - "Mały Książę"
 
-> ... nie chodzi o to aby nie czuć strachu. Raczej, aby odczuwając strach, nauczyć się go przemóc
+> ... nie chodzi o to aby nie czuć strachu. Raczej, aby odczuwając strach, nauczyć się go przemóc.
 > - Diana Palmer, "Zbuntowana kochanka"
