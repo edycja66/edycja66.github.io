@@ -6,7 +6,7 @@ permalink: /linki/
 
 <div id="pl"></div>
 
-W tym dziale zebrane są (będą) linki do zewnętrznych źródeł, jakie znalazły się we wpisach, w kolejności ich wystąpienia z adnotazję, w którym wpisie.
+W tym dziale zebrane są linki do zewnętrznych źródeł, jakie znalazły się we wpisach, w kolejności ich wystąpienia z adnotacją, w którym wpisie.
 
 2026-02-22	[Jest taki samotny dom](https://www.youtube.com/watch?v=wT_ObQMSs3U){:target="_blank"}<br />
 2026-03-01	[„The Future of Communications”](https://www.youtube.com/watch?v=o_JNFHLbyWA){:target="_blank"}<br />
