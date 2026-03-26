@@ -27,6 +27,6 @@ A teraz cytaty osobiste:
 > Jestem Polakiem gorszego sortu, ale nie narzekam, bo jestem w dobrym towarzystwie.
 > - Piotr Zelt - aktor
 
-Piotr Zelt nawiązuje do haniebnych słów "Prezesa Polski", który dzieląc naród rozpoczął demontaż młodego, nie do końca uformowanego państwa, o jakim marzyliśmy w czasach siermiężnego i opresyjnego systemu narzuconego nam przez "Wielkiego Brata". Młodzi mogą już tego nie pamiętać... Warto wiedzieć, kto jest kim.
+Piotr Zelt nawiązuje do haniebnych słów "Prezesa Polski", który dzieląc naród rozpoczął demontaż młodego, nie do końca uformowanego państwa, o jakim marzyliśmy w czasach siermiężnego i opresyjnego systemu narzuconego nam przez "Wielkiego (wschodzniego) Brata". Młodzi mogą już tego nie pamiętać, a warto wiedzieć, kto jest kim.
 
 Szczęście - Maharishi mówi, że jest wewnątrz, anonimowy cytat każe go szukać gdzieś daleko... Ale gdzie?
