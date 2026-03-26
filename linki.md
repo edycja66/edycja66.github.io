@@ -34,3 +34,4 @@ W tym dziale zebrane są (będą) linki do zewnętrznych źródeł, jakie znala
 2026-03-23	[Genua](https://photos.app.goo.gl/xnIFQhvwJNE16VHr2){:target="_blank"}<br />
 2026-03-23	[Bruksela](https://photos.app.goo.gl/yPjXrLHGMiDGuyYCA){:target="_blank"}<br />
 2026-03-23	[Indie](https://photos.app.goo.gl/s8w9MvGHa825Fpe93){:target="_blank"}<br />
+2026-03-23	[Eckhart Tolle](https://www.youtube.com/watch?v=-WNeSiXnpcc){:target="_blank"}<br />
