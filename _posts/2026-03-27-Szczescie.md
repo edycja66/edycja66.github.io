@@ -29,4 +29,6 @@ A teraz cytaty osobiste:
 
 Piotr Zelt nawiązuje do haniebnych słów "Prezesa Polski", który dzieląc naród rozpoczął demontaż młodego, nie do końca uformowanego państwa, o jakim marzyliśmy w czasach siermiężnego i opresyjnego systemu narzuconego nam przez "Wielkiego (wschodzniego) Brata". Młodzi mogą już tego nie pamiętać, a warto wiedzieć, kto jest kim.
 
-Szczęście - Maharishi mówi, że jest wewnątrz, anonimowy cytat każe go szukać gdzieś daleko... Ale gdzie?
+Szczęście - Maharishi mówi, że jest wewnątrz, anonimowy cytat każe go szukać gdzieś daleko... Ale gdzie? Na Facebook-u?
+
+Niektórzy tam je znajdują, a raczej za jego pośrednictwem, ale jak świadomie zaakceptować warunki Meta?
