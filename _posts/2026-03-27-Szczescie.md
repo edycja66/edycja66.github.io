@@ -31,4 +31,4 @@ Piotr Zelt nawiązuje do haniebnych słów "Prezesa Polski", który dzieląc nar
 
 Szczęście - Maharishi mówi, że jest wewnątrz, anonimowy cytat każe go szukać gdzieś daleko... Ale gdzie? Na Facebook-u?
 
-Niektórzy tam je znajdują, a raczej za jego pośrednictwem, ale jak świadomie zaakceptować warunki Meta?
+Niektórzy tam je znajdują, a raczej za jego pośrednictwem, ale jak świadomie zaakceptować warunki Meta? Cyrograf za nadzieję na szczęście?
