@@ -24,7 +24,7 @@ A teraz cytaty osobiste:
 
 > Są trzy rzeczy, których cofnąć nie można:<br />
 > - słowa, które zostało wypowiedziane<br />
-> - okazji, któ©ej się nie wykorzystało<br />
+> - okazji, której się nie wykorzystało<br />
 > - czasu, który minął.
 
 > Prawdą jest, że to ciosy od życia i bolesne doświadczenia pomagają nam dorosnąć.
