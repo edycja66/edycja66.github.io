@@ -37,3 +37,5 @@ W tym dziale zebrane są linki do zewnętrznych źródeł, jakie znalazły się
 2026-03-23	[Indie](https://photos.app.goo.gl/s8w9MvGHa825Fpe93){:target="_blank"}<br />
 2026-03-23	[Eckhart Tolle](https://www.youtube.com/watch?v=-WNeSiXnpcc){:target="_blank"}<br />
 2026-04-05  [Tadeusz Gadacz](https://www.youtube.com/watch?v=xny2e4z-eaU){:target="_blank"}
+2026-06-07  [Tadeusz Gadacz](https://archive.org/details/oumiejetnoscizyc0000gada/page/n5/mode/2up){:target="_blank"}
+
