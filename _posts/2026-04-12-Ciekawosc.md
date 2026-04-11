@@ -33,7 +33,7 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > - papież Franciszek
 
 Tytułowa ciekawość życia nawiązuje do drugiego z jej cytatów, a pokazuje inklinację Edyty do tematów szkoły i nauczania. Tak, do końca pozostała pedagogiem. Pewnie dobrym, skoro na pogrzebie pojawili się jej dawni uczniowie. Z niektórymi do końca utrzymywała kontakt, czasem spotykała się... Nie wiem tylko, czy potrafiła wzbudzić w uczniach tę niepohamowaną ciekawość życia, choć wspomniane relacje na to w jakimś stopniu wskazują.
-Szkoda tylko, że coraz trudniej o takich nauczycieli, co potrafią tę ciekawość wzbudzić - może młodzi przytłoczeni są licznymi procedurami i papierologią, co nie zostawia wiele energii na nauczanie. Ale problem zapewne nie leży tylko po stronie nauczycieli, bo jak pisał Konstanty Ildefons Gałczyński:
+Szkoda tylko, że coraz trudniej o takich nauczycieli, co potrafią tę ciekawość wzbudzić - może młodzi nauczyciele przytłoczeni są licznymi procedurami i papierologią, co nie zostawia wiele energii na nauczanie. Ale problem zapewne nie leży tylko po stronie nauczycieli, bo jak pisał Konstanty Ildefons Gałczyński:
 
 > „Trudno o dobrą opiekunkę do dziecka, ale coraz trudniej znaleźć dobre dziecko.”
 
