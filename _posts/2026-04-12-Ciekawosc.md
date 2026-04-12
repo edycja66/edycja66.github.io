@@ -37,4 +37,4 @@ Szkoda tylko, że coraz trudniej o takich nauczycieli, co potrafią tę ciekawo
 
 > „Trudno o dobrą opiekunkę do dziecka, ale coraz trudniej znaleźć dobre dziecko.”
 
-Tekst ten został również użyty w jednej z pierwszych scen filmu "Chłopaki nie opłaczą"
+Tekst ten został również użyty w jednej z pierwszych scen filmu "Chłopaki nie płaczą"
