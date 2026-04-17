@@ -23,4 +23,4 @@ A teraz cytaty osobiste:
 > Ludzie, którzy głosują na nieudaczników, złodziei, zdrajców i oszustów, nie są ich ofiarami. Są ich wspólnikami.
 > - George Orwell
 
-Wyrzuć z głowy bzdury... Żeby to się tak łatwo dało zrobić, jak się mówi. Sytuację jaka jest, TRZEBA zaakceptować, bo inaczej to będzie bezsensowsne sprzeczanie się z rzeczywistością - dopiero wtedy można nawigować ku pożądanej przyszłości. Autorowi może chodziło tu o to, by nie urządzać się w niekomfortowej dla siebie sytuacji, na zasadzie: jest jak jest i nic na to nie poradzę, muszę to polubić. Zaakceptować, nie znaczy polubić, to tylko przyjhąć fakt, jako fakt.
+Wyrzuć z głowy bzdury... Żeby to się tak łatwo dało zrobić, jak się mówi. Sytuację jaka jest, TRZEBA zaakceptować, bo inaczej to będzie bezsensowsne sprzeczanie się z rzeczywistością - dopiero wtedy można nawigować ku pożądanej przyszłości. Autorowi może chodziło tu o to, by nie urządzać się w niekomfortowej dla siebie sytuacji, na zasadzie: jest jak jest i nic na to nie poradzę, muszę to polubić. Zaakceptować, nie znaczy polubić, to tylko przyjąć fakt, jako fakt.
