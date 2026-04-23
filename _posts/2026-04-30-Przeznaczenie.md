@@ -23,5 +23,5 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Nigdy się nie tłumacz! Przyjaciele tego nie potrzebują, a wrogowie i tak nie uwierzą.
 > - Mark Twain
 
-> Sukces polega na tym, że dostajesdz to czego chciałeć. Szczęście na tym, że chcesz tego co dostałeś.
+> Sukces polega na tym, że dostajesz to czego chciałeś. Szczęście na tym, że chcesz tego co dostałeś.
 
