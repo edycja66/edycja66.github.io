@@ -39,4 +39,5 @@ W tym dziale zebrane są linki do zewnętrznych źródeł, jakie znalazły się
 2026-04-05  [Tadeusz Gadacz](https://www.youtube.com/watch?v=xny2e4z-eaU){:target="_blank"}<br />
 2026-04-07  Tadeusz Gadacz, ["O umiejętności życia"](https://archive.org/details/oumiejetnoscizyc0000gada/page/n5/mode/2up){:target="_blank"}<br />
 2026-04-07  Tadeusz Gadacz, ["Samotność"](https://pf.uw.edu.pl/images/NUMERY_PDF/029/PF_1999-R8_1_03_Gadacz-T_Samotnosc.pdf){:target="_blank"}<br />
+2026-05-01 [Pałac Kultury i Nauki](https://www.rdc.pl/aktualnosci/warszawa/palac-kultury-i-nauki-historia-architektura-70-urodziny-atrakacje_SgbH6As6hrdWjY2gm1Ve){:target="_blank"}<br />
 <br />
