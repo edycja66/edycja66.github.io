@@ -1,4 +1,4 @@
----- 
+---
 layout: post
 title: "Dobry człowiek"
 published: true # dopóki wpis nie jest gotowy to zamiast "true" wpisz tu "false", a Jekyll będzie go ignorował
@@ -22,5 +22,3 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Człowiek jest tyle wart, ile warta jest dobroć jego serca, którą dzieli się z innymi. Dlatego jedni nie są warci złamanego gorsza, a drudzy są po prostu bezcenni.
 
 > Chyba nigdy nie jest za późno i na nic nie jest za późno, kiedy w grę wchodzi człowiek. Nawet tego, który odszedł można dogonić.
-
-
