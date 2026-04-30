@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Przeznaczenie"
 published: true # dopóki wpis nie jest gotowy to zamiast "true" wpisz tu "false", a Jekyll będzie go ignorował
@@ -24,4 +24,3 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > - Mark Twain
 
 > Sukces polega na tym, że dostajesz to czego chciałeś. Szczęście na tym, że chcesz tego co dostałeś.
-
