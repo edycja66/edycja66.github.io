@@ -28,4 +28,3 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Bycie samemu nie oznacza bycia samotnym; również byci  samotnym nie oznacza bycia samemu.
 
 W dzisiejszych myślach dominuje nuta smutku i poczucia opuszczenia... Czy były to relne doświadczenia, czy tylko to "mądrość życiowa"?
-
