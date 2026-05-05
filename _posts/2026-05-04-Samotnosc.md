@@ -2,9 +2,8 @@
 layout: post title: "Samotność"
 published: true # dopóki wpis nie jest gotowy to zamiast "true" wpisz tu "false", a Jekyll będzie go ignorował
 categories: # Tu wrzucasz kategorie, którymi później można sortować wpisy
-
-* "inspiracje" tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
-* "ogólne"
+- "inspiracje" tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
+- "ogólne"
 ---
 
 Dziś kolejna porcja inspiracji. Zachęcam Cię drogi czytelniku, zapoznaj się z krótkim tekstem [O blogu](/about){:target="\_blank"}. Bez tego nie zobaczysz świata, jaki chcę Ci pokazać.
