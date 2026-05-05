@@ -1,8 +1,10 @@
 ---
-layout: post title: "Samotność"
+layout: post
+title: "Samotność"
 published: true # dopóki wpis nie jest gotowy to zamiast "true" wpisz tu "false", a Jekyll będzie go ignorował
 categories: # Tu wrzucasz kategorie, którymi później można sortować wpisy
-- "inspiracje" tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
+- "inspiracje"
+tags: # Tu wrzucasz tagi, którymi później można sortować wpisy
 - "ogólne"
 ---
 
