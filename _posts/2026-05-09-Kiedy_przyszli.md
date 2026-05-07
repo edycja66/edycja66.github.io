@@ -28,7 +28,7 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Kiedy przyszli po związkowców, nie protestowałem. Nie byłem przecież związkowcem.
 >
 > Kiedy przyszli po mnie, nikt nie protestował. Nikogo już nie było
-> - Matrin Niemoller (1892-1984). Niemiecki pastor luterański. Wiersz napisany w obozie w Dachau w 1942 r.
+> - Matrin Niemöller (1892-1984). Niemiecki pastor luterański. Wiersz napisany w obozie w Dachau w 1942 r.
 
 
 
