@@ -28,4 +28,3 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Słabych nie rusza, ponieważ oni i tak spędzają życie na kolanach.
 
 > Lepiej milczeć i wyglądać na głupiego, niż się odezwać i rozwiać wszelkie wątpliwości.
-
