@@ -28,4 +28,4 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Jestem w tym wieku, że milczę, gdy ktoś pierdoli głupoty. Brakuje mi sił i czasu na walkę z idiotami.
 
 > Lepiej zaliczać się do niektórych, niż do wszystkich.
-> - Andrzej Sapkowski, "Krew elfów"-
+> - Andrzej Sapkowski, "Krew elfów"
