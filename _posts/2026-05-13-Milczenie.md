@@ -14,7 +14,7 @@ Zachęcam Cię drogi czytelniku, zapoznaj się z krótkim tekstem [O blogu](/ab
 Na początek cytat z kalendarza:
 
 > Wszystko co dobre jest dzikie i wolne.
-> - [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau){:target="_blank"}
+> - [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau){:target="_blank"} *Uwaga - link do tekstu angielskiego, polska wersja jest baaardzo uboga.
 
 A teraz cytaty zapisane przez Edytę, osobiste:
 
