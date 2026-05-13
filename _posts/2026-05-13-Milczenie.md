@@ -15,6 +15,7 @@ Na początek cytat z kalendarza:
 
 > Wszystko co dobre jest dzikie i wolne.
 > - [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau){:target="_blank"}
+
 A teraz cytaty zapisane przez Edytę, osobiste:
 
 > To, że milczę, nie znaczy, że nie mam nic do powiedzenia.
