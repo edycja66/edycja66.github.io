@@ -18,7 +18,7 @@ Na początek cytat z kalendarza:
 
 A teraz cytaty zapisane przez Edytę, osobiste:
 
-> Nieważnym jest to ile razy zbłądzisz. Ważne jest to, że zły czas kiedyś minie i wtedy pokaże się nowa, lepsza droga.
+> Nieważnym jest to, ile razy zbłądzisz. Ważne jest to, że zły czas kiedyś minie i wtedy pokaże się nowa, lepsza droga.
 
 > Statek nie tonie od wody, która go otacza, ale od tej, która dostaje się do środka.
 > Nie pozwól, by to, co dzieje się wokół ciebie dostawało się do twojego wnętrza i ciągnęło cię w dół.
