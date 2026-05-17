@@ -26,3 +26,4 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 
 > "Zazwyczaj ludzie, którzy nie mają za co przepraszać, przepraszają za wszystko;...
 > A ci, którzy powinni przepraszać, nie przepraszają za nic."
+
