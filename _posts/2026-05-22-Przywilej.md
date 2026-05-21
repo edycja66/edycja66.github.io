@@ -27,7 +27,7 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Puste worki nadyma wiatr, bezmyślnych ludzi - próżność.
 > - Sokrates
 
-> Nigdy nie lekceważ siły głupich ludzi.
+> Nigdy nie lekceważ siły głupich ludzi. 
 
 > Nie ufaj słowom, ufaj czynom.
 
