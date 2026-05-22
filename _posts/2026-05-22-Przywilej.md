@@ -34,5 +34,5 @@ A teraz cytaty zapisane przez Edytę, osobiste:
 > Być wszędzie, to być nigdzie.
 > - Seneka
 
-Tytułowa myśl funkcjonuje też w postaci powiedzenia "Nie myli się tylko ten, kto nic nie robi", bo każde działanie obarczone jest ryzykiem błędu. A im większe ryzyko podejmujemy, tym większe sukcesy możemy osiągnąć. Inne powiedzenie z kolei mówi: "Kto nie ryzykuje, ten nie pije szmpana".
+Tytułowa myśl Sokratesa funkcjonuje też w postaci powiedzenia "Nie myli się tylko ten, kto nic nie robi", bo każde działanie obarczone jest ryzykiem błędu. A im większe ryzyko podejmujemy, tym większe sukcesy możemy osiągnąć. Inne powiedzenie z kolei mówi: "Kto nie ryzykuje, ten nie pije szmpana".
 W tych powiedzeniach zamknięta jest myśl, że nigdy efekt naszego działania nie jest pewny, ale donikąd byśmy nie doszli, gdybyśmy nie podjęli ryzyka.
