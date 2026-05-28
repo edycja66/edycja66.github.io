@@ -34,7 +34,7 @@ Przyznam, że wywoływały we mnie ogromne emocje, szczególnie na początku, co
 
 Jak napisałem we wstępnie, mam nadzieję, że teksty te przetrwają jeszcze długo i być może kogoś zainspirują do innego spojrzenia na życie, a może i przemyślenia go na nowo. Bo życie jest procesem, ono się rozwija i kształtuje w działaniu, nie da się zatrzymać ani chwili - pozostaną jedynie wspomnienia, które również zatrą się kiedyś w pamięci, aż w końcu i one odejdą razem z nami...
 
-Niech podsumowaniem będzie ulubiony wiersz Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"}:
+Niech podsumowaniem będzie ulubiony wiersz Edyty, autorstwa Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"}:
 
 > Śpieszmy się kochać ludzi tak szybko odchodzą
 zostaną po nich buty i telefon głuchy
