@@ -36,11 +36,11 @@ Jak napisałem we wstępnie, mam nadzieję, że teksty te przetrwają jeszcze d�
 
 Niech podsumowaniem będzie ulubiony wiersz Edyty, autorstwa Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"}:
 
-> Śpieszmy się kochać ludzi tak szybko odchodzą
-zostaną po nich buty i telefon głuchy
-tylko to co nieważne jak krowa się wlecze
-najważniejsze tak prędkie że nagle się staje
-potem cisza normalna więc całkiem nieznośna
-jak czystość urodzona najprościej z rozpaczy
+> Śpieszmy się kochać ludzi tak szybko odchodzą<br />
+zostaną po nich buty i telefon głuchy<br />
+tylko to co nieważne jak krowa się wlecze<br />
+najważniejsze tak prędkie że nagle się staje<br />
+potem cisza normalna więc całkiem nieznośna<br />
+jak czystość urodzona najprościej z rozpaczy<br />
 kiedy myślimy o kimś zostając bez niego
 > - źródło: https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
