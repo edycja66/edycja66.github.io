@@ -42,5 +42,5 @@ tylko to co nieważne jak krowa się wlecze
 najważniejsze tak prędkie że nagle się staje
 potem cisza normalna więc całkiem nieznośna
 jak czystość urodzona najprościej z rozpaczy
-kiedy myślimy o kimś zostając bez niego.
+kiedy myślimy o kimś zostając bez niego
 > - źródło: https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
