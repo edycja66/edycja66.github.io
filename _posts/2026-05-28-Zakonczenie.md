@@ -45,3 +45,5 @@ jak czystość urodzona najprościej z rozpaczy<br />
 kiedy myślimy o kimś zostając bez niego
 > - źródło:<br />
 https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
+
+![Plyta](/images/plyta.png)
