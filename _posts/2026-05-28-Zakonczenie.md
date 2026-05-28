@@ -33,3 +33,14 @@ Na tym zapiski Edyty kończą się. Przepisywanie ich każdego dnia było dla m
 Przyznam, że wywoływały we mnie ogromne emocje, szczególnie na początku, co widać w komentarzach jakie czasem zostawiałem.
 
 Jak napisałem we wstępnie, mam nadzieję, że teksty te przetrwają jeszcze długo i być może kogoś zainspirują do innego spojrzenia na życie, a może i przemyślenia go na nowo. Bo życie jest procesem, ono się rozwija i kształtuje w działaniu, nie da się zatrzymać ani chwili - pozostaną jedynie wspomnienia, które również zatrą się kiedyś w pamięci, aż w końcu i one odejdą razem z nami...
+
+Niech podsumowaniem będzie ulubiony wiersz Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"}:
+
+> Śpieszmy się kochać ludzi tak szybko odchodzą
+zostaną po nich buty i telefon głuchy
+tylko to co nieważne jak krowa się wlecze
+najważniejsze tak prędkie że nagle się staje
+potem cisza normalna więc całkiem nieznośna
+jak czystość urodzona najprościej z rozpaczy
+kiedy myślimy o kimś zostając bez niego.
+> - źródło: https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
