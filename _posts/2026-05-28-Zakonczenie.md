@@ -46,4 +46,4 @@ kiedy myślimy o kimś zostając bez niego
 > - źródło:<br />
 https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
 
-![Plyta](/images/plyta1.png)
+![Plyta](/images/plyta2.jpg)
