@@ -43,4 +43,5 @@ najważniejsze tak prędkie że nagle się staje<br />
 potem cisza normalna więc całkiem nieznośna<br />
 jak czystość urodzona najprościej z rozpaczy<br />
 kiedy myślimy o kimś zostając bez niego
-> - źródło: https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
+> - źródło:<br />
+https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie
