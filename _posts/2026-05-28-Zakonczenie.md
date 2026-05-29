@@ -32,6 +32,8 @@ A teraz ostanie cztery cytaty zapisane przez Edytę w kalendarzu, który przez o
 Na tym zapiski Edyty kończą się. Przepisywanie ich każdego dnia było dla mnie wzruszającym przeżyciem - wczytywanie się w to charakterystyczne, trochę uczniowskie, pismo, analizowanie treści notatek i ich ewentualnych odniesień do doświadczeń, pragnień lub wyobrażeń...
 Przyznam, że wywoływały we mnie ogromne emocje, szczególnie na początku, co widać w komentarzach jakie czasem zostawiałem.
 
+![Plyta](/images/rekopis1.jpg)
+
 Jak napisałem we wstępnie, mam nadzieję, że teksty te przetrwają jeszcze długo i być może kogoś zainspirują do innego spojrzenia na życie, a może i przemyślenia go na nowo. Bo życie jest procesem, ono się rozwija i kształtuje w działaniu, nie da się zatrzymać ani chwili - pozostaną jedynie wspomnienia, które również zatrą się kiedyś w pamięci, aż w końcu i one odejdą razem z nami...
 
 Niech podsumowaniem będzie ulubiony wiersz Edyty (fragment), autorstwa Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"} (jeżeli czytasz to na małym ekranie telefonu, to ze względu na formatowanie wiersza, obróć ekran do pozycji poziomej):
