@@ -16,4 +16,5 @@ Dziś będzie to myśl obrazkowa, pozyskana od użytkownika FB o ksywie "Masz To
 
 Myśl ta kojarzy mi się z instrukcją bezpieczeństwa w samolocie, gdzie zasady użycia maski tlenowej nakazują nałozyć ja najpierw sobie, a potem dziecku. Jest to zasada, o której często zapominamy - jeśli nie zadbasz o siebie, może nie będziesz już miał siły zadbać o innych...
 
-Stawianie dzieci na pierwszym miejscu kosztem związku może go zrujnować, a wtedy dziecko będzie musiało zmierzyć się z najgorszym: rozpadem rodziny. 
+Stawianie dzieci na pierwszym miejscu kosztem związku może go zrujnować, a wtedy dziecko będzie musiało zmierzyć się z najgorszym: rozpadem rodziny. <br />
+Obrazuje to kolejną mądrość - bacz, aby we wszystkim co robisz zachować odpowiedni balans, nie zaniedbuj jednego aspektu życia koncentrując się na innym.
