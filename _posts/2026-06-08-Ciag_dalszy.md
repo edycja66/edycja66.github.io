@@ -14,4 +14,5 @@ Dziś będzie to myśl obrazkowa, pozyskana od użytkownika FB o ksywie "Masz To
 
 ![Ciąg dalszy](/images/20260608_FB_IMG_1780049481816.jpg)
 
+[11. marca](/Zanim){:target="_blank"} przytoczyłem piosenkę, w której Mercedes Sosa śpiewa "Todo cambia..." - wszystko się zmienia. Wspomniałem też wtedy Marka Aureliusza, który w zmianie upatruje istotę życia. 
 
