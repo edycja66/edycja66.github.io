@@ -44,3 +44,5 @@ W tym dziale zebrane są linki do zewnętrznych źródeł, jakie znalazły się
 2026-05-01 [Pałac Kultury i Nauki](https://www.rdc.pl/aktualnosci/warszawa/palac-kultury-i-nauki-historia-architektura-70-urodziny-atrakacje_SgbH6As6hrdWjY2gm1Ve){:target="_blank"}<br />
 2026-05-13 [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau){:target="_blank"}<br />
 2026-05-28 wiersz Jana Twardowskiego ["Śpieszmy się"](https://poezja.org/wz/Jan_Twardowski/1311/Spieszmy_sie){:target="_blank"}<br />
+2026-06-18 [Zeland Vadim](https://ia601409.us.archive.org/9/items/mas_ebooks/s269017969-Reality-Transurfing-1-English-Vadim-Zeland.pdf){:target="_blank", "Transerfing rzeczywistości" (En)<br />
+
