@@ -20,6 +20,7 @@ W tym dziale zebrane są linki do zewnętrznych źródeł, jakie znalazły się
 2026-03-11	["Rozmyślania"](https://wolnelektury.pl/media/book/pdf/rozmyslania-marek-aureliusz.pdf){:target="_blank"}<br />
 2026-03-11	["Solo le pido a Dios"](https://www.youtube.com/watch?v=eyR8CP77imA){:target="_blank"} <br />
 2026-03-11	["Gracias a la vida"](https://www.youtube.com/watch?v=cIrGQD84F1g&list=RDcIrGQD84F1g){:target="_blank"}<br />
+2026-03-11  ["Gracias a la vida" wyk. Paola Hermosín](https://youtu.be/ndCeUMbnPo8){:target="_blank"}<br />
 2026-03-11	[Canción De Las Simples Cosas](https://www.youtube.com/watch?v=LS5lV5GYpu0&list=RDcIrGQD84F1g&index=7){:target="_blank"}<br />
 2026-03-13	[Mooji](https://www.youtube.com/watch?v=4mGOmDz_4dM){:target="_blank"}<br />
 2026-03-23	[Sycylia](https://photos.app.goo.gl/zx4G3SEiNNpWBhHJA){:target="_blank"}<br />
